@@ -1,2 +1,2 @@
 # Python-Data-Analysis
-Projects that showcase my knowledge in analyzing and visualizing data using python.
+Projects that showcase my skills in analyzing and visualizing data using python.
